@@ -1,14 +1,25 @@
-# Payload Blank Template
+# 🚀 Payload CMS Simple Homepage
 
-This template comes configured with the bare minimum to get started on anything you need.
+A simple, headless CMS-powered website featuring a custom homepage with modular components.
 
-## Quick start
+## 📦 Features
 
-This template can be deployed directly from our Cloud hosting and it will setup MongoDB and cloud S3 object storage for media.
+- Payload CMS v3: Modern, TypeScript-first headless CMS.
+- Modular Homepage: A single-page layout built with flexible content blocks:
+  - Hero: Impactful headline, subtext, and call-to-action.
+  - About: Dedicated section for storytelling and bios.
+  - Newsletter: Lead generation form integration.
+- Media Management: Built-in support for image uploads and optimization.
+- Type Safety: Auto-generated TypeScript interfaces for all content.
 
-## Quick Start - local setup
+## 🛠️ Tech Stack
 
-To spin up this template locally, follow these steps:
+| Tool               | Usage                         |
+| ------------------ | ----------------------------- |
+| Payload CMS        | Headless Content Management   |
+| Next.js            | Frontend Framework / Admin UI |
+| MongoDB / Postgres | Database Layer                |
+| TypeScript         | Static Typing                 |
 
 ### Clone
 
